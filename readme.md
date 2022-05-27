@@ -1,0 +1,1 @@
+Necessário instalar Node.js e NPM 
